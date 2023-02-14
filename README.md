@@ -3,4 +3,4 @@
 
 ## Framework
 ![image](https://github.com/Pual2013/FRPT/blob/main/FRPT.png)
-[paper] (https://arxiv.org/abs/2207.14465)
+# Paper: https://arxiv.org/abs/2207.14465
