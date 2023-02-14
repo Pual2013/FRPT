@@ -2,4 +2,4 @@
 ## Author: Shijie Wang, Jianlong Chang, Zhihui Wang, Haojie Li, Wanli Ouyang, Qi Tian
 
 # Framework
-![image](https://github.com/Pual2013/FRPT/FRPT.png)
+![image](https://github.com/Pual2013/FRPT/blob/main/FRPT.png)
