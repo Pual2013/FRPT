@@ -1,4 +1,4 @@
-# [AAAI 2023 Oral] Fine-grained Retrieval Prompt Tuning
+# [AAAI 2023 Oral] FRPT
 ### Author: Shijie Wang, Jianlong Chang, Zhihui Wang, Haojie Li, Wanli Ouyang, Qi Tian
 
 ## Framework
